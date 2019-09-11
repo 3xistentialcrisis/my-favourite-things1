@@ -6,10 +6,23 @@ h2 {
     color: green;
     font-style: italic;
     text-align: center;
+ 
 }
 p {
     font-family: sans-serif;
 }
 ul {
     line-height: 40px;
+}
+h3 {
+    color: yellow;
+    font-style: bold;
+    text-align: right;
+}
+strong{
+    font-style: italic;
+}
+em{
+    font-style: bold;
+    font-size: x-large;
 }
